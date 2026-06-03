@@ -198,18 +198,6 @@ SVM with TF-IDF features significantly outperforms simpler classifiers on this t
 
 ---
 
-## Publication
-
-This project was published as a peer-reviewed research paper in IEEE Xplore.
-
-**Title:** Sentiment Analysis for Product Reviews Using Machine Learning Techniques  
-**Publisher:** IEEE Xplore  
-**Year:** 2025–2026  
-**DOI:** [Add your DOI here]  
-**Link:** [Add your IEEE Xplore link here]
-
----
-
 ## Technologies Used
 
 | Technology | Purpose |
@@ -222,14 +210,6 @@ This project was published as a peer-reviewed research paper in IEEE Xplore.
 | Joblib | Model serialization |
 
 ---
-
-## Author
-
-**Your Full Name**  
-M.Tech Artificial Intelligence — Sage University, Indore  
-📧 youremail@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)
 
 ---
 
